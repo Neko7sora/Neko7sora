@@ -1,5 +1,5 @@
 ![header](https://github.com/Neko7sora/Neko7sora/blob/main/header.png?raw=true)
-✨ねこなそら
+![](https://komarev.com/ghpvc/?username=Neko7sora&style=flat-square&label=PROFILE+VIEWS)✨ねこなそら
 
 ---
 
