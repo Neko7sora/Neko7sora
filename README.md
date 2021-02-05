@@ -1,21 +1,13 @@
-### Hi there 👋
+<img align="left" src="https://github.com/Neko7sora/Neko7sora/blob/main/header.png?raw=true" />
+✨よろしく！！ ✨ねこなそら
+
+### Github ステータス
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Neko7sora&count_private=true&show_icons=true&bg_color=ffffff00&title_color=5094f0&text_color=009a23&icon_color=fb7603" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neko7sora&count_private=true&bg_color=ffffff00&title_color=5094f0&text_color=009a23&icon_color=fb7603" />
 </a>
-<!--
-**Neko7sora/Neko7sora** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Twitter
+[@Neko7sora](https://twitter.com/Neko7Sora)
