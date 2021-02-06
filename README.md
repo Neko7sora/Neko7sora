@@ -13,13 +13,7 @@
 
 ---
 
-### 関連リンク
-- Discord: .💫 Neko7 Sora#0756
-- LAPRAS: [portfolio](https://lapras.com/public/064VWLX)
-- Twitter: [@Neko7sora](https://twitter.com/Neko7Sora)
-- Qiita: [@Neko7sora](https://qiita.com/Neko7Sora)
-- teratail: [@Neko7sora](https://teratail.com/users/Neko7sora)
-- Wantedly: [ID: neko7sora](https://www.wantedly.com/id/neko7sora)
-- note: [neko7sora](https://note.com/neko7sora)
+### ポートフォリオ
+- [RESUME](https://www.resume.id/neko7sora)
 
 ---
