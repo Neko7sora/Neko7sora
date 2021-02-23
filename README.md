@@ -2,9 +2,9 @@
 ![](https://komarev.com/ghpvc/?username=Neko7sora&style=flat-square&label=PROFILE+VIEWS)✨ねこなそら
 
 ---
-
-<div style="text-align: left;">
+### Hi there 👋 I'm Neko7sora!
 ⚠Gitなりすまし対策のため、GPG署名付きのコミットをしています。デジタル署名が正しかった場合「Verified」マークが付きます。
+
 <img align="right" src="https://github.com/Neko7sora/Neko7sora/blob/main/signature.png?raw=true" />
 
 デジタル署名とは、送信されてきたデータが間違いなく本人のものであるのかを証明するのための技術
@@ -19,7 +19,6 @@ if(github.Verified.name == "Neko7sora") return true
 if("Github" || "Gitlab") return true
 if("Other server") return false
 ```
-</div>
 
 ---
 
