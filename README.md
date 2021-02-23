@@ -4,16 +4,22 @@
 ---
 
 <div style="text-align: left;">
-<img align="right" src="https://github.com/Neko7sora/Neko7sora/blob/main/signature.png?raw=true" />
-
 ⚠Gitなりすまし対策のため、GPG署名付きのコミットをしています。デジタル署名が正しかった場合「Verified」マークが付きます。
 
-デジタル署名とは、送信されてきたデータが間違いなく本人のものであるのかを証明するのための技術。
+デジタル署名とは、送信されてきたデータが間違いなく本人のものであるのかを証明するのための技術
 
 もし、「Verified」マークが付いていなかった場合はなりすましの可能性があります。
+```js
+if(github.Verified.name == "Neko7sora") return true
+```
 
+個人や団体が運営するGitサーバーがGPG署名の検証ができるサーバーだったとしても、信頼できる人が運営していない場合 or 誰にも改ざん出来ないようになっていない場合は一切手伝いません！！
+```js
+if("Github" || "Gitlab") return true
+if("Other server") return false
+```
 </div>
-<br><br>
+<img align="right" src="https://github.com/Neko7sora/Neko7sora/blob/main/signature.png?raw=true" />
 
 ---
 
