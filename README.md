@@ -5,7 +5,7 @@
 
 <div style="text-align: left;">
 ⚠Gitなりすまし対策のため、GPG署名付きのコミットをしています。デジタル署名が正しかった場合「Verified」マークが付きます。
-
+<img align="right" src="https://github.com/Neko7sora/Neko7sora/blob/main/signature.png?raw=true" />
 デジタル署名とは、送信されてきたデータが間違いなく本人のものであるのかを証明するのための技術
 
 もし、「Verified」マークが付いていなかった場合はなりすましの可能性があります。
@@ -19,7 +19,6 @@ if("Github" || "Gitlab") return true
 if("Other server") return false
 ```
 </div>
-<img align="right" src="https://github.com/Neko7sora/Neko7sora/blob/main/signature.png?raw=true" />
 
 ---
 
