@@ -24,8 +24,9 @@ if("Other server") return false
 
 ### Github ステータス
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Neko7sora&count_private=true&show_icons=true&bg_color=ffffff00&title_color=5094f0&text_color=009a23&icon_color=fb7603" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neko7sora&layout=compact&count_private=true&bg_color=ffffff00&title_color=5094f0&text_color=009a23&icon_color=fb7603" />
-<br>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neko7sora&layout=compact&count_private=true&bg_color=ffffff00&title_color=5094f0&text_color=009a23&icon_color=fb7603" />
+
+<br clear="left">
 
 ---
 
