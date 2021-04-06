@@ -31,12 +31,6 @@ if("Other server") return false
 
 ---
 
-### ポートフォリオ
-- [RESUME](https://www.resume.id/neko7sora)
-<br>
-
----
-
   ### GitHub Gist feed (Timezone: `Asia/Tokyo`)
 <!-- gist feed start -->
 - Mar 30 - [tokyo-metropolitan-gov/covid19 Service Workerに関して](https://gist.github.com/Neko7sora/234be672202d15b035d8bc1ca985ca5b)
