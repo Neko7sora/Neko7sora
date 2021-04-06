@@ -27,4 +27,3 @@ jobs:
         uses: sarisia/actions-commit@master
         with:
           message: "[skip ci] docs: update feed"
-        run: echo "changed!"        
