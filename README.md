@@ -37,7 +37,7 @@ if("Other server") return false
 
 ---
 
-  ### Github gist feed
+  ### GitHub Gist feed (Timezone: `Asia/Tokyo`)
 <!-- gist feed start -->
 - Mar 30 - [tokyo-metropolitan-gov/covid19 Service Workerに関して](https://gist.github.com/Neko7sora/234be672202d15b035d8bc1ca985ca5b)
 <!-- gist feed end -->
