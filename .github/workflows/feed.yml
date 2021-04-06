@@ -1,0 +1,30 @@
+name: 'feed ci'
+on:
+  workflow_dispatch:
+  push:
+  schedule:
+    - cron: '0 * * * *'
+
+jobs:
+  readme:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: sarisia/setup-icu@v1
+      - name: gist feed
+        uses: sarisia/actions-readme-feed@v1
+        id: feed
+        with:
+          url: |
+            https://gist.github.com/Neko7sora.atom
+          file: 'README.md'
+          timezone: 'Asia/Tokyo'
+          start_flag: "<!-- gist feed start -->"
+          end_flag: "<!-- gist feed end -->"
+      - name: push to master
+        if: steps.feed.outputs.changed == true
+        id: commit
+        uses: sarisia/actions-commit@master
+        with:
+          message: "[skip ci] docs: update feed"
+        run: echo "changed!"        
