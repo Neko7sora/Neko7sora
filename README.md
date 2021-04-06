@@ -33,6 +33,7 @@ if("Other server") return false
 
   ### GitHub Gist feed (Timezone: `Asia/Tokyo`)
 <!-- gist feed start -->
+- 2021/04/06 - [迷惑メール拒否リスト(部分一致)](https://gist.github.com/Neko7sora/8fe545d4c292e3b54497aa48718be9cf)
 - 2021/03/30 - [tokyo-metropolitan-gov/covid19 Service Workerに関して](https://gist.github.com/Neko7sora/234be672202d15b035d8bc1ca985ca5b)
 <!-- gist feed end -->
 <br>
