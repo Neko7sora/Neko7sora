@@ -19,6 +19,7 @@ jobs:
             https://gist.github.com/Neko7sora.atom
           file: 'README.md'
           timezone: 'Asia/Tokyo'
+          format: '- ${year}/${02month}/${02day} - [${title}](${url})'
           start_flag: "<!-- gist feed start -->"
           end_flag: "<!-- gist feed end -->"
       - name: push to master
