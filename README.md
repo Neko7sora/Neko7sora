@@ -42,6 +42,10 @@ if("Other server") return false
 
  ### Articles feed (Timezone: `Asia/Tokyo`)
 <!-- articles feed start -->
+- 2021/03/28 - [DiscordとGuildedのライブラリーの違いとGuildedのBOT作成の準備の説明 (追記: 2021/03/28)](https://qiita.com/Neko7sora/items/0bed4b89257ab8210d17)
+- 2021/02/07 - [ニュースレターをはじめます。](https://www.getrevue.co/profile/Neko7sora/issues/issue-334914)
+- 2021/02/07 - [はじめてのつぶやき](https://note.com/neko7sora/n/n39344db658cc)
+- 2021/01/22 - [CLIでUbuntuのGUIのインストール方法](https://qiita.com/Neko7sora/items/3e1d5a17b91b435357e4)
 <!-- articles feed end -->
 
 ---
