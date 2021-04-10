@@ -1,6 +1,6 @@
 <img width="100%" src="https://github.com/Neko7sora/Neko7sora/blob/main/header-clear.png?raw=true" />
 
-![](https://komarev.com/ghpvc/?username=Neko7sora&style=flat-square&label=PROFILE+VIEWS) ✨ねこなそら(neko-na-sora)
+![](https://komarev.com/ghpvc/?username=Neko7sora&style=flat-square&label=PROFILE+VIEWS) ✨ねこなそら(neko-na-sora) Timezone: `Asia/Tokyo`
 
 ---
 ### Hi there 👋 I'm Neko7sora!
@@ -23,15 +23,15 @@ if("Other server") return false
 
 ---
 
-### Github Status
-  |<img align="left" src="https://github-readme-stats.vercel.app/api?username=Neko7sora&count_private=true&show_icons=true&bg_color=ffffff00&title_color=5094f0&text_color=009a23&icon_color=fb7603&hide_border=0" />|<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neko7sora&layout=compact&count_private=true&bg_color=ffffff00&title_color=5094f0&text_color=009a23&icon_color=fb7603&langs_count=10&hide_border=0" />|
+### Github stats
+  |<img align="left" src="https://github-readme-stats.neko7sora.vercel.app/api?username=Neko7sora&count_private=true&show_icons=true&bg_color=ffffff00&title_color=5094f0&text_color=009a23&icon_color=fb7603&hide_border=0" />|<img align="left" src="https://github-readme-stats.neko7sora.vercel.app/api/top-langs/?username=Neko7sora&layout=compact&count_private=true&bg_color=ffffff00&title_color=5094f0&text_color=009a23&icon_color=fb7603&langs_count=10&hide_border=0" />|
 |-|-|
 
 <br clear="left">
 
 ---
 
- ### GitHub Gist feed (Timezone: `Asia/Tokyo`)
+ ### GitHub Gist feed
 <!-- gist feed start -->
 - 2021/04/06 - [Programming Languages List](https://gist.github.com/Neko7sora/898d0b92dbc1efde844294ef68af0e02)
 - 2021/04/06 - [迷惑メール拒否リスト(部分一致)](https://gist.github.com/Neko7sora/8fe545d4c292e3b54497aa48718be9cf)
@@ -40,7 +40,7 @@ if("Other server") return false
 
 ---
 
- ### Articles feed (Timezone: `Asia/Tokyo`)
+ ### Articles feed
 <!-- articles feed start -->
 - 2021/03/28 - [DiscordとGuildedのライブラリーの違いとGuildedのBOT作成の準備の説明 (追記: 2021/03/28)](https://qiita.com/Neko7sora/items/0bed4b89257ab8210d17)
 - 2021/02/07 - [ニュースレターをはじめます。](https://www.getrevue.co/profile/Neko7sora/issues/issue-334914)
