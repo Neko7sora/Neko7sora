@@ -42,6 +42,7 @@ if("Other server") return false
 
  ### Articles feed
 <!-- articles feed start -->
+- 2021/04/11 - [「S-CBT」って何だ？調べてまとめてみた](https://note.com/neko7sora/n/n65473b4fadef)
 - 2021/03/28 - [DiscordとGuildedのライブラリーの違いとGuildedのBOT作成の準備の説明 (追記: 2021/03/28)](https://qiita.com/Neko7sora/items/0bed4b89257ab8210d17)
 - 2021/02/07 - [ニュースレターをはじめます。](https://www.getrevue.co/profile/Neko7sora/issues/issue-334914)
 - 2021/02/07 - [はじめてのつぶやき](https://note.com/neko7sora/n/n39344db658cc)
