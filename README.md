@@ -48,11 +48,11 @@ if("Other server") return false
 
  ### Articles feed
 <!-- articles feed start -->
+- 2021/05/31 - [記事が書けるサイトに関して](https://blog.neko7sora.jp/2021/05/blog-post_31.html)
 - 2021/04/14 - [Hello, Zenn!](https://zenn.dev/neko7sora/articles/6908dccdbcc856)
 - 2021/04/12 - [ポートフォリオのRESUME(レジュメ)について](https://www.getrevue.co/profile/Neko7sora/issues/resume-354698)
 - 2021/04/11 - [「S-CBT」って何だ？調べてまとめてみた](https://note.com/neko7sora/n/n65473b4fadef)
 - 2021/03/28 - [DiscordとGuildedのライブラリーの違いとGuildedのBOT作成の準備の説明 (追記: 2021/03/28)](https://qiita.com/Neko7sora/items/0bed4b89257ab8210d17)
-- 2021/02/07 - [ニュースレターをはじめます。](https://www.getrevue.co/profile/Neko7sora/issues/issue-334914)
 <!-- articles feed end -->
 
 ---
