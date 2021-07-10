@@ -24,14 +24,13 @@ if(github.Verified.name == "Neko7sora") return true
 個人や団体が運営するGitサーバーがGPG署名の検証ができるサーバーだったとしても、信頼できる人が運営していない場合 or 誰にも改ざん出来ないようになっていない場合は一切手伝いません！！
 ```js
 if("Github" || "Gitlab") return true
-if("Other server") return false
+if("Other server") return "Thinking..."
 ```
 
 ---
 
 ### Github stats
-  |<img align="left" src="https://github-readme-stats.neko7sora.vercel.app/api?username=Neko7sora&count_private=true&show_icons=true&bg_color=ffffff00&title_color=5094f0&text_color=009a23&icon_color=fb7603&hide_border=0" />|<img align="left" src="https://github-readme-stats.neko7sora.vercel.app/api/top-langs/?username=Neko7sora&layout=compact&count_private=true&bg_color=ffffff00&title_color=5094f0&text_color=009a23&icon_color=fb7603&langs_count=10&hide_border=0" />|
-|-|-|
+<img align="left" src="https://github-readme-stats.neko7sora.vercel.app/api?username=Neko7sora&count_private=true&show_icons=true&bg_color=ffffff00&title_color=5094f0&text_color=009a23&icon_color=fb7603&hide_border=0" /><img align="left" src="https://github-readme-stats.neko7sora.vercel.app/api/top-langs/?username=Neko7sora&layout=compact&count_private=true&bg_color=ffffff00&title_color=5094f0&text_color=009a23&icon_color=fb7603&langs_count=10&hide_border=0" />
 
 <br clear="left">
 
