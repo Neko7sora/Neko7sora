@@ -1,6 +1,11 @@
 <img width="100%" src="https://github.com/Neko7sora/Neko7sora/blob/main/header-clear.png?raw=true" />
 
-![](https://komarev.com/ghpvc/?username=Neko7sora&style=flat-square&label=PROFILE+VIEWS) ✨ねこそら(neko-sora) Timezone: `Asia/Tokyo`
+<img align="left" src="https://github-readme-stats.neko7sora.vercel.app/api?username=Neko7sora&count_private=true&show_icons=true&bg_color=ffffff00&title_color=5094f0&text_color=009a23&icon_color=fb7603&hide_border=0" />
+<img align="left" src="https://github-readme-stats.neko7sora.vercel.app/api/top-langs/?username=Neko7sora&layout=compact&count_private=true&bg_color=ffffff00&title_color=5094f0&text_color=009a23&icon_color=fb7603&langs_count=10&hide_border=0" />
+
+<br clear="left">
+
+---
 
 The email address listed on the Github will not be able to see emails blocked by Firefox Relay. (Firefox Relay supports email forwarding (including attachments) of emails up to 150KB in size)
 Also, depending on the content of the email, it may be replied to or ignored.
@@ -29,14 +34,8 @@ if("Other server") return "Thinking..."
 
 ---
 
-### Github stats
-<img align="left" src="https://github-readme-stats.neko7sora.vercel.app/api?username=Neko7sora&count_private=true&show_icons=true&bg_color=ffffff00&title_color=5094f0&text_color=009a23&icon_color=fb7603&hide_border=0" /><img align="left" src="https://github-readme-stats.neko7sora.vercel.app/api/top-langs/?username=Neko7sora&layout=compact&count_private=true&bg_color=ffffff00&title_color=5094f0&text_color=009a23&icon_color=fb7603&langs_count=10&hide_border=0" />
-
-<br clear="left">
-
----
-
  ### GitHub Gist feed
+ Timezone: `Asia/Tokyo`
 <!-- gist feed start -->
 - 2021/04/06 - [Programming Languages List](https://gist.github.com/Neko7sora/898d0b92dbc1efde844294ef68af0e02)
 - 2021/04/06 - [迷惑メール拒否リスト(部分一致)](https://gist.github.com/Neko7sora/8fe545d4c292e3b54497aa48718be9cf)
@@ -46,6 +45,7 @@ if("Other server") return "Thinking..."
 ---
 
  ### Articles feed
+ Timezone: `Asia/Tokyo` Articles: Blogger, Qiita, Revue, note, Zenn
 <!-- articles feed start -->
 - 2021/05/31 - [記事が書けるサイトに関して](https://blog.neko7sora.jp/2021/05/blog-post_31.html)
 - 2021/04/14 - [Hello, Zenn!](https://zenn.dev/neko7sora/articles/6908dccdbcc856)
