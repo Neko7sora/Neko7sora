@@ -25,7 +25,7 @@ Githubに記載されているメールアドレスでは、Firefox Relayでブ�
 if(github.Verified.name == "Neko7sora") return true
 ```
 
-個人や団体が運営するGitサーバーがGPG署名の検証ができるサーバーだったとしても、信頼できる人が運営していない場合 or 誰にも改ざん出来ないようになっていない場合は一切手伝いません！！
+個人や団体が運営するGitサーバーがGPG署名の検証ができるサーバーだったとしても、信頼できる人が運営していない場合は一切手伝いません！！
 ```js
 if("Github" || "Gitlab") return true
 if("Other server") return "Thinking..."
