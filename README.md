@@ -5,14 +5,6 @@
 
 ---
 
-The email address listed on the Github will not be able to see emails blocked by Firefox Relay. (Firefox Relay supports email forwarding (including attachments) of emails up to 150KB in size)
-Also, depending on the content of the email, it may be replied to or ignored.
-
-Githubに記載されているメールアドレスでは、Firefox Relayでブロックされたメールを見ることができません。(Firefox Relayは、150KBまでのメール転送(添付ファイルを含む)に対応)
-また、メール内容によって返信したり、無視をする場合があります。
-
----
-
 ### Hi there 👋 I'm Neko7sora! ✨ねこそら(neko-sora)
 ⚠Gitなりすまし対策のため、GPG署名付きのコミットをしています。デジタル署名が正しかった場合「Verified」マークが付きます。
 
