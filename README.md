@@ -28,11 +28,11 @@ if("Other server") return "Thinking..."
  ### GitHub Gist feed
   Timezone: `Asia/Tokyo`
 <!-- gist feed start -->
+- 2021/08/13 - [Cloudflare Firewall Rules](https://gist.github.com/Neko7sora/ad1655acc6ef20f6027ec689e9ea6c8e)
 - 2021/07/18 - [動画の再生速度を変更(Javascript)](https://gist.github.com/Neko7sora/2d6ef27e3a0fb24a02662d7d40fcf5ac)
 - 2021/07/13 - [Windows Home Enable Hyper-V(もしなんかしらがあったとき用)](https://gist.github.com/Neko7sora/22ecdfba6174432367078614bbd5119c)
 - 2021/06/13 - [Google alert 検索除外キーワード](https://gist.github.com/Neko7sora/b769fbba5c1cb76a753bbfbf51208f73)
 - 2021/04/06 - [Programming Languages List](https://gist.github.com/Neko7sora/898d0b92dbc1efde844294ef68af0e02)
-- 2021/04/06 - [迷惑メール拒否リスト(部分一致)](https://gist.github.com/Neko7sora/8fe545d4c292e3b54497aa48718be9cf)
 <!-- gist feed end -->
 
 ---
