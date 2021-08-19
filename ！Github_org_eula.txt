@@ -1,0 +1,9 @@
+## navia
+https://developer.nvidia.com/gameworks-source-github
+
+NVIDIA GAMEWORKS END USER LICENSE AGREEMENT https://developer.nvidia.com/content/apply-access-nvidia-physx-source-code
+
+## epicgames
+https://www.unrealengine.com/ja/ue4-on-github
+
+Unreal® Engine End User License Agreement For Publishing https://www.unrealengine.com/ja/eula/publishing
