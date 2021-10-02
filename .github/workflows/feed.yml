@@ -27,7 +27,7 @@ jobs:
         id: articles
         with:
           url: |
-            https://www.getrevue.co/profile/Neko7sora?format=rss
+            https://newsletters.neko7sora.site?format=rss
             https://note.com/neko7sora/rss
             https://zenn.dev/neko7sora/feed
             https://qiita.com/Neko7sora/feed
