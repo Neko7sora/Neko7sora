@@ -27,11 +27,11 @@ if(github.Verified.name == "Neko7sora") return true
  ### GitHub Gist feed
   Timezone: `Asia/Tokyo`
 <!-- gist feed start -->
+- 2021/10/05 - [Text art](https://gist.github.com/Neko7sora/5dabc3489bad7338b5aab453fe805761)
+- 2021/10/05 - [Neko7sora](https://gist.github.com/Neko7sora/bbd2772504f0eef2d310edf8df66c227)
 - 2021/09/14 - [hashcheck.bat](https://gist.github.com/Neko7sora/46bf73307381f35f8a8b3dfaae68cefe)
 - 2021/08/23 - [OBS Discord Widget Custom CSS](https://gist.github.com/Neko7sora/8a85b8d86f2519d82af6e4fd278463f4)
 - 2021/08/13 - [Cloudflare Firewall Rules](https://gist.github.com/Neko7sora/ad1655acc6ef20f6027ec689e9ea6c8e)
-- 2021/07/18 - [動画の再生速度を変更(Javascript)](https://gist.github.com/Neko7sora/2d6ef27e3a0fb24a02662d7d40fcf5ac)
-- 2021/07/13 - [Windows Home Enable Hyper-V(もしなんかしらがあったとき用)](https://gist.github.com/Neko7sora/22ecdfba6174432367078614bbd5119c)
 <!-- gist feed end -->
 
 ---
