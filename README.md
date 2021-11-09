@@ -39,11 +39,11 @@ if(github.Verified.name == "Neko7sora") return true
  ### Articles feed
  Timezone: `Asia/Tokyo` Articles: Blogger, Qiita, Revue, note, Zenn
 <!-- articles feed start -->
-- 2021/11/07 - [Qiita - Node.jsをセットアップウィザードなしで使用する方法](https://www.getrevue.co/profile/Neko7sora/issues/qiita-node-js-821073)
+- 2021/11/07 - [#Qiita Node.jsをセットアップウィザードなしで使用する方法](https://www.getrevue.co/profile/Neko7sora/issues/qiita-node-js-821073)
 - 2021/11/07 - [Node.jsをセットアップウィザードなしで使用する方法](https://qiita.com/Neko7sora/items/dc0bf3abb8635763c37d)
-- 2021/10/21 - [CloudflareをいじってPERSONALテーマのRevueの見た目を変える ](https://www.getrevue.co/profile/Neko7sora/issues/cloudflare-personal-revue-789285)
-- 2021/09/30 - [CloudflareのプロキシをいじってRevueの見た目を変える](https://www.getrevue.co/profile/Neko7sora/issues/cloudflare-revue-750971)
-- 2021/09/05 - [Twitterにニュースレターのカルムが表示される](https://www.getrevue.co/profile/Neko7sora/issues/twitter-556705)
+- 2021/10/21 - [#Revue CloudflareでPERSONALテーマのRevueの見た目を変える](https://www.getrevue.co/profile/Neko7sora/issues/revue-cloudflare-personal-revue-789285)
+- 2021/09/30 - [#Revue CloudflareでEDITORIALテーマのRevueの見た目を変える](https://www.getrevue.co/profile/Neko7sora/issues/revue-cloudflare-editorial-revue-750971)
+- 2021/09/05 - [#Revue Twitterにニュースレターのカルムが表示される](https://www.getrevue.co/profile/Neko7sora/issues/revue-twitter-556705)
 <!-- articles feed end -->
 
 ---
