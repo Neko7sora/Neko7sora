@@ -39,11 +39,11 @@ if(github.Verified.name == "Neko7sora") return true
  ### Articles feed
  Timezone: `Asia/Tokyo` Articles: Blogger, Qiita, Revue, note, Zenn
 <!-- articles feed start -->
+- 2021/11/28 - [#Revue 環境によってニュースレターの表示が異なっているのに気がついた](https://www.getrevue.co/profile/Neko7sora/issues/revue-890395)
 - 2021/11/21 - [#Qiita CLIでUbuntuのGUIのインストール方法](https://www.getrevue.co/profile/Neko7sora/issues/qiita-cli-ubuntu-gui-846499)
 - 2021/11/14 - [#Note 「S-CBT」って何だ？調べてまとめてみた](https://www.getrevue.co/profile/Neko7sora/issues/note-s-cbt-846491)
 - 2021/11/07 - [#Qiita Node.jsをセットアップウィザードなしで使用する方法](https://www.getrevue.co/profile/Neko7sora/issues/qiita-node-js-821073)
 - 2021/11/07 - [Node.jsをセットアップウィザードなしで使用する方法](https://qiita.com/Neko7sora/items/dc0bf3abb8635763c37d)
-- 2021/10/21 - [#Revue CloudflareでPERSONALテーマのRevueの見た目を変える](https://www.getrevue.co/profile/Neko7sora/issues/revue-cloudflare-personal-revue-789285)
 <!-- articles feed end -->
 
 ---
