@@ -27,11 +27,11 @@ if(github.Verified.name == "Neko7sora") return true
  ### GitHub Gist feed
   Timezone: `Asia/Tokyo`
 <!-- gist feed start -->
+- 2021/12/16 - [DevTools shortcuts disable](https://gist.github.com/Neko7sora/5f556ea281743144d26be54fb09a29f3)
 - 2021/10/31 - [keybase.md](https://gist.github.com/Neko7sora/5a8e656283e7e51398434310f5bb9e8c)
 - 2021/10/05 - [Text art](https://gist.github.com/Neko7sora/5dabc3489bad7338b5aab453fe805761)
 - 2021/10/05 - [Neko7sora](https://gist.github.com/Neko7sora/bbd2772504f0eef2d310edf8df66c227)
 - 2021/09/14 - [hashcheck.bat](https://gist.github.com/Neko7sora/46bf73307381f35f8a8b3dfaae68cefe)
-- 2021/08/23 - [OBS Discord Widget Custom CSS](https://gist.github.com/Neko7sora/8a85b8d86f2519d82af6e4fd278463f4)
 <!-- gist feed end -->
 
 ---
