@@ -39,7 +39,8 @@ if(github.Verified.name == "Neko7sora") return true
  ### Articles feed
  Timezone: `Asia/Tokyo` Articles: Blogger, Qiita, Revue, note, Zenn
 <!-- articles feed start -->
-- 2022/01/02 - [https://note.com/...](https://note.com/neko7sora/n/nb0f7820f940e)
+- 2022/01/02 - [2021年の記録
+https://...](https://note.com/neko7sora/n/nb0f7820f940e)
 - 2022/01/02 - [#Zenn Scrap DRM(デジタル著作権管理)コンポーネントに関すること](https://www.getrevue.co/profile/Neko7sora/issues/zenn-scrap-drm-927157)
 - 2021/12/12 - [#Revue Javaライブラリ「Log4j」の脆弱性によるマインクラフトへの影響](https://www.getrevue.co/profile/Neko7sora/issues/revue-java-log4j-902562)
 - 2021/11/28 - [#Revue 環境によってニュースレターの表示が異なっているのに気がついた](https://www.getrevue.co/profile/Neko7sora/issues/revue-890395)
