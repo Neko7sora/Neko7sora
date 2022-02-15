@@ -1,27 +1,25 @@
+---
 ### Hi there 👋 I'm Neko7sora! ✨ねこそら(neko-sora)
-<!--<img width="100%" src="https://github.com/Neko7sora/Neko7sora/blob/main/header-clear.png?raw=true" />
---><table>
+<table>
   <tr>
     <td><img src="https://github-readme-stats.api.dev.neko7sora.site/api?username=Neko7sora&count_private=true&show_icons=true&bg_color=ffffff00&title_color=5094f0&text_color=009a23&icon_color=fb7603&hide_border=true" /></td>
     <td><img src="https://github-readme-stats.api.dev.neko7sora.site/api/top-langs/?username=Neko7sora&layout=compact&count_private=true&bg_color=ffffff00&title_color=5094f0&text_color=009a23&icon_color=fb7603&langs_count=10&hide_border=true" /></td>
   </tr>
-  <tr>
-    <td colspan="2"><img src="https://metrics.lecoq.io/Neko7sora?template=classic&base.header=0&base.metadata=0&gists=1&lines=1&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=16&config.timezone=Asia%2FTokyo&config.twemoji=true&config.display=large" />
-   </td>
-  </tr>
 </table>
 
-⚠Gitなりすまし対策のため、GPG署名付きのコミットをしています。デジタル署名が正しかった場合「Verified」マークが付きます。
+---
 
-<img align="right" src="https://github.com/Neko7sora/Neko7sora/blob/main/signature.png?raw=true" />
+⚠Gitなりすまし対策のため、**GPG署名付き**のコミットをしています。デジタル署名が正しかった場合「Verified」マークが付きます。
 
-デジタル署名とは、送信されてきたデータが間違いなく本人のものであるのかを証明するのための技術
+<!--<img align="right" src="https://github.com/Neko7sora/Neko7sora/blob/main/signature.png?raw=true" />-->
+
+デジタル署名とは、送信されてきたデータが間違いなく本人のものであるのかを証明するのための技術です。
 
 もし、「Verified」マークが付いていなかった場合はなりすましの可能性があります。
-```js
+<!--```js
 if(github.Verified.name == "Neko7sora") return true
 ```
-
+-->
 ---
 
  ### GitHub Gist feed
