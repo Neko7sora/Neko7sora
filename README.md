@@ -40,7 +40,7 @@ if(github.Verified.name == "Neko7sora") return true
  ### Articles feed
  Timezone: `Asia/Tokyo` Articles: Blogger, Qiita, Revue, note, Zenn
 <!-- articles feed start -->
-- 2022/02/19 - [エンジニアに関するTwitterコミュニティを作成した](https://zenn.dev/neko7sora/articles/ec72545f2d7d7a)
+- 2022/02/19 - [テクノロジーに関するTwitterコミュニティを作成した](https://zenn.dev/neko7sora/articles/ec72545f2d7d7a)
 - 2022/01/31 - [#Zenn Scrap yarn v3がyarn v1と誤認識してしまう](https://www.getrevue.co/profile/Neko7sora/issues/zenn-scrap-yarn-v3-yarn-v1-1000457)
 - 2022/01/24 - [#Zenn Scrap monorepo リスト](https://www.getrevue.co/profile/Neko7sora/issues/zenn-scrap-monorepo-966048)
 - 2022/01/02 - [2021年の記録
