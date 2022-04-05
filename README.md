@@ -41,10 +41,11 @@ if(github.Verified.name == "Neko7sora") return true
  Timezone: `Asia/Tokyo` Articles: Blogger, Qiita, Revue, note, Zenn
 <!-- articles feed start -->
 - 2022/02/19 - [テクノロジーに関するTwitterコミュニティを作成した](https://zenn.dev/neko7sora/articles/ec72545f2d7d7a)
+- 2022/01/02 - [2021年の記録
+https://...](https://note.com/neko7sora/n/nb0f7820f940e)
 - 2021/11/07 - [WindowsでNode.jsをセットアップウィザードなしで使用する方法](https://qiita.com/Neko7sora/items/dc0bf3abb8635763c37d)
 - 2021/05/31 - [記事が書けるサイトに関して](https://blog.neko7sora.site/2021/05/blog-post_31.html)
 - 2021/04/14 - [Hello, Zenn!](https://zenn.dev/neko7sora/articles/6908dccdbcc856)
-- 2021/01/22 - [CLIでUbuntuのGUIのインストール方法](https://qiita.com/Neko7sora/items/3e1d5a17b91b435357e4)
 <!-- articles feed end -->
 
 ---
