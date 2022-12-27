@@ -44,8 +44,7 @@ if(github.Verified.name == "Neko7sora") return true
 - 2022/02/19 - [テクノロジーに関するTwitterコミュニティを作成した](https://zenn.dev/neko7sora/articles/ec72545f2d7d7a)
 - 2022/01/31 - [#Zenn Scrap yarn v3がyarn v1と誤認識してしまう](https://www.getrevue.co/profile/Neko7sora/issues/zenn-scrap-yarn-v3-yarn-v1-1000457)
 - 2022/01/24 - [#Zenn Scrap monorepo リスト](https://www.getrevue.co/profile/Neko7sora/issues/zenn-scrap-monorepo-966048)
-- 2022/01/02 - [2021年の記録
-https://...](https://note.com/neko7sora/n/nb0f7820f940e)
+- 2022/01/02 - [#Zenn Scrap DRM(デジタル著作権管理)コンポーネントに関すること](https://www.getrevue.co/profile/Neko7sora/issues/zenn-scrap-drm-927157)
 <!-- articles feed end -->
 
 ---
