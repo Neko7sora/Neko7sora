@@ -45,7 +45,7 @@ https://...](https://note.com/neko7sora/n/nb0f7820f940e)
 - 2021/11/07 - [WindowsでNode.jsをセットアップウィザードなしで使用する方法](https://qiita.com/Neko7sora/items/dc0bf3abb8635763c37d)
 - 2021/05/31 - [記事が書けるサイトに関して](https://blog.neko7sora.site/2021/05/blog-post_31.html)
 - 2021/04/14 - [Hello, Zenn!](https://zenn.dev/neko7sora/articles/6908dccdbcc856)
-- 2021/04/11 - [「S-CBT」って何だ？調べてまとめてみた](https://note.com/neko7sora/n/n65473b4fadef)
+- 2021/04/12 - [[Revue ARCHIVE] ポートフォリオのRESUME(レジュメ)について](https://blog.neko7sora.site/2021/04/revue-archive-resume20210412-700.html)
 <!-- articles feed end -->
 
 ---
