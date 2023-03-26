@@ -27,11 +27,10 @@ jobs:
         id: articles
         with:
           url: |
-            https://newsletters.neko7sora.site?format=rss
             https://note.com/neko7sora/rss
             https://zenn.dev/neko7sora/feed
             https://qiita.com/Neko7sora/feed
-            https://neko7sora.blogspot.com/feeds/posts/default
+            http://blog.n7s.dev/feeds/posts/default
           file: 'README.md'
           timezone: 'Asia/Tokyo'
           format: '- ${year}/${02month}/${02day} - [${title}](${url})'
