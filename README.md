@@ -42,7 +42,6 @@ if(github.Verified.name == "Neko7sora") return true
 <!-- articles feed start -->
 - 2022/01/02 - [2021年の記録
 https://...](https://note.com/neko7sora/n/nb0f7820f940e)
-- 2021/11/07 - [WindowsでNode.jsをセットアップウィザードなしで使用する方法](https://qiita.com/Neko7sora/items/dc0bf3abb8635763c37d)
 - 2021/04/14 - [Hello, Zenn!](https://zenn.dev/neko7sora/articles/6908dccdbcc856)
 - 2021/04/11 - [「S-CBT」って何だ？調べてまとめてみた](https://note.com/neko7sora/n/n65473b4fadef)
 - 2021/02/07 - [はじめてのつぶやき](https://note.com/neko7sora/n/n39344db658cc)
