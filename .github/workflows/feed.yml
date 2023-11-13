@@ -9,7 +9,7 @@ jobs:
   readme:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
       - uses: sarisia/setup-icu@v1
       - name: gist feed
         uses: sarisia/actions-readme-feed@v1
